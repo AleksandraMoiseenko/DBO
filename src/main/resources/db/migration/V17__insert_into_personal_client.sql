@@ -1,0 +1,170 @@
+INSERT INTO PERSONAL_CLIENT
+(
+   NAME,
+   DEPOSIT,
+   DEPOSIT_PRICE,
+   CREDIT,
+   ACCOUNT,
+   ACCOUNT_PRICE,
+   RKO,
+   RKO_PRICE,
+   MONEY_TRANSACTION,
+   PERCENT,
+   INTERNET_BANKING,
+   MOBILE_BANKING,
+   DBO_PRICE,
+   RISCS
+)
+VALUES
+(
+   'Открытие',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   '1.5',
+   'YES',
+   'YES',
+   '0',
+   '4'
+)
+INSERT INTO PERSONAL_CLIENT
+(
+   NAME,
+   DEPOSIT,
+   DEPOSIT_PRICE,
+   CREDIT,
+   ACCOUNT,
+   ACCOUNT_PRICE,
+   RKO,
+   RKO_PRICE,
+   MONEY_TRANSACTION,
+   PERCENT,
+   INTERNET_BANKING,
+   MOBILE_BANKING,
+   DBO_PRICE,
+   RISCS
+)
+VALUES
+(
+   'Альфа-Банк',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   '1'
+)
+INSERT INTO PERSONAL_CLIENT
+(
+   NAME,
+   DEPOSIT,
+   DEPOSIT_PRICE,
+   CREDIT,
+   ACCOUNT,
+   ACCOUNT_PRICE,
+   RKO,
+   RKO_PRICE,
+   MONEY_TRANSACTION,
+   PERCENT,
+   INTERNET_BANKING,
+   MOBILE_BANKING,
+   DBO_PRICE,
+   RISCS
+)
+VALUES
+(
+   'Ситибанк',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   '3'
+)
+INSERT INTO PERSONAL_CLIENT
+(
+   NAME,
+   DEPOSIT,
+   DEPOSIT_PRICE,
+   CREDIT,
+   ACCOUNT,
+   ACCOUNT_PRICE,
+   RKO,
+   RKO_PRICE,
+   MONEY_TRANSACTION,
+   PERCENT,
+   INTERNET_BANKING,
+   MOBILE_BANKING,
+   DBO_PRICE,
+   RISCS
+)
+VALUES
+(
+   'Русский Стандарт',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   '2'
+)
+INSERT INTO PERSONAL_CLIENT
+(
+   NAME,
+   DEPOSIT,
+   DEPOSIT_PRICE,
+   CREDIT,
+   ACCOUNT,
+   ACCOUNT_PRICE,
+   RKO,
+   RKO_PRICE,
+   MONEY_TRANSACTION,
+   PERCENT,
+   INTERNET_BANKING,
+   MOBILE_BANKING,
+   DBO_PRICE,
+   RISCS
+)
+VALUES
+(
+   'Хоум Кредит Банк',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   '0',
+   'YES',
+   'YES',
+   '0',
+   '4'
+)
