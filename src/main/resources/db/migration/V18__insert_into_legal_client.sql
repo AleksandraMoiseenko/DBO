@@ -1,11 +1,9 @@
 INSERT INTO LEGAL_CLIENT
 (
    NAME,
+   CREDIT,
    DEPOSIT,
    DEPOSIT_PRICE,
-   CREDIT,
-   ACCOUNT,
-   ACCOUNT_PRICE,
    RKO,
    RKO_PRICE,
    INVESTMENT,
@@ -18,8 +16,6 @@ INSERT INTO LEGAL_CLIENT
 VALUES
 (
    'Открытие',
-   'YES',
-   '0',
    'YES',
    'YES',
    '0',
@@ -35,11 +31,9 @@ VALUES
 INSERT INTO LEGAL_CLIENT
 (
    NAME,
+   CREDIT,
    DEPOSIT,
    DEPOSIT_PRICE,
-   CREDIT,
-   ACCOUNT,
-   ACCOUNT_PRICE,
    RKO,
    RKO_PRICE,
    INVESTMENT,
@@ -52,8 +46,6 @@ INSERT INTO LEGAL_CLIENT
 VALUES
 (
    'Альфа-Банк',
-   'YES',
-   '0',
    'YES',
    'YES',
    '0',
@@ -69,11 +61,9 @@ VALUES
 INSERT INTO LEGAL_CLIENT
 (
    NAME,
+   CREDIT,
    DEPOSIT,
    DEPOSIT_PRICE,
-   CREDIT,
-   ACCOUNT,
-   ACCOUNT_PRICE,
    RKO,
    RKO_PRICE,
    INVESTMENT,
@@ -86,8 +76,6 @@ INSERT INTO LEGAL_CLIENT
 VALUES
 (
    'Ситибанк',
-   'YES',
-   '0',
    'YES',
    'YES',
    '0',
@@ -103,11 +91,9 @@ VALUES
 INSERT INTO LEGAL_CLIENT
 (
    NAME,
+   CREDIT,
    DEPOSIT,
    DEPOSIT_PRICE,
-   CREDIT,
-   ACCOUNT,
-   ACCOUNT_PRICE,
    RKO,
    RKO_PRICE,
    INVESTMENT,
@@ -120,8 +106,6 @@ INSERT INTO LEGAL_CLIENT
 VALUES
 (
    'Русский Стандарт',
-   'YES',
-   '0',
    'YES',
    'YES',
    '0',
@@ -137,11 +121,9 @@ VALUES
 INSERT INTO LEGAL_CLIENT
 (
    NAME,
+   CREDIT,
    DEPOSIT,
    DEPOSIT_PRICE,
-   CREDIT,
-   ACCOUNT,
-   ACCOUNT_PRICE,
    RKO,
    RKO_PRICE,
    INVESTMENT,
@@ -154,8 +136,6 @@ INSERT INTO LEGAL_CLIENT
 VALUES
 (
    'Хоум Кредит Банк',
-   'YES',
-   '0',
    'YES',
    'YES',
    '0',
