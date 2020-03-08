@@ -18,15 +18,15 @@ VALUES
    'Открытие',
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'NO',
    'YES',
    'YES',
-   '0',
-   '4'
+   0,
+   4
 )
 INSERT INTO LEGAL_CLIENT
 (
@@ -48,15 +48,15 @@ VALUES
    'Альфа-Банк',
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
-   'YES',
-   'YES',
+   0,
    'YES',
    'YES',
-   '0',
-   '1'
+   'YES',
+   'YES',
+   0,
+   1
 )
 INSERT INTO LEGAL_CLIENT
 (
@@ -78,15 +78,15 @@ VALUES
    'Ситибанк',
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'NO',
    'YES',
    'YES',
-   '0',
-   '4'
+   0,
+   4
 )
 INSERT INTO LEGAL_CLIENT
 (
@@ -108,15 +108,15 @@ VALUES
    'Русский Стандарт',
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'NO',
    'YES',
    'YES',
-   '0',
-   '2'
+   0,
+   2
 )
 INSERT INTO LEGAL_CLIENT
 (
@@ -138,13 +138,13 @@ VALUES
    'Хоум Кредит Банк',
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'NO',
    'NO',
    'YES',
    'YES',
-   '0',
-   '5'
+   0,
+   5
 )

@@ -19,18 +19,18 @@ VALUES
 (
    'Открытие',
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
-   '1.5',
+   1.5,
    'YES',
    'YES',
-   '0',
-   '4'
+   0,
+   4
 )
 INSERT INTO PERSONAL_CLIENT
 (
@@ -53,18 +53,18 @@ VALUES
 (
    'Альфа-Банк',
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
-   '1'
+   0,
+   1
 )
 INSERT INTO PERSONAL_CLIENT
 (
@@ -87,18 +87,18 @@ VALUES
 (
    'Ситибанк',
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
-   '3'
+   0,
+   3
 )
 INSERT INTO PERSONAL_CLIENT
 (
@@ -121,18 +121,18 @@ VALUES
 (
    'Русский Стандарт',
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
-   '2'
+   0,
+   2
 )
 INSERT INTO PERSONAL_CLIENT
 (
@@ -155,16 +155,16 @@ VALUES
 (
    'Хоум Кредит Банк',
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
-   '0',
+   0,
    'YES',
    'YES',
-   '0',
-   '4'
+   0,
+   4
 )
