@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>BrokerDBO</title>
+	<script src="/js/personalScript.js"></script>
+	<script src="/js/legalScript.js"></script>
+</head>
+<body>
+	
+	<img src="/js/broker.png" height="400" align="center">
+	<p><b>Personal client application form</b><br>
+	<form>
+	<p><b>Are you going to take out a loan?</b><br>
+	<input type="text" size="20" id="personalCredit">
+	<p><b>Are you going to open a deposit?</b><br>
+	<input type="text" size="20" id="personalDeposit">
+	<p><b>Which sum do you consider an appropriate to open a deposit?</b><br>
+	<input type="text" size="20" id="personalDepositPrice">
+	<p><b>Are you going to open an account?</b><br>
+	<input type="text" size="20" id="personalAccount">
+	<p><b>Which sum do you consider an appropriate for account maintenance?</b><br>
+	<input type="text" size="20" id="personalAccountPrice">
+	<p><b>Are you going to provide settlement and cash services?</b><br>
+	<input type="text" size="20" id="personalRKO">
+	<p><b>Which sum do you consider an appropriate for providing settlement and cash services?</b><br>
+	<input type="text" size="20" id="personalRKOPrice">
+	<p><b>Are you going to make money transactions?</b><br>
+	<input type="text" size="20" id="personalMoneyTransaction">
+	<p><b>Which percent do you consider an appropriate for money transaction (start with 4000 rub.)?</b><br>
+	<input type="text" size="20" id="personalPercent">
+	<p><b>Do you wish to use bank services via the Internet?</b><br>
+	<input type="text" size="20" id="personalInternetBanking">
+	<p><b>Do you wish to use bank service via mobile phone?</b><br>
+	<input type="text" size="20" id="personalMobileBanking">
+	<p><b>How much are you ready to pay for using DBO?</b><br>
+	<input type="text" size="20" id="personalDBOPrice">
+	<p><b>Which risk do you consider an appropriate?</b><br>
+	<input type="text" size="20" id="personalRisks">
+	<input type="button" onClick="getPersonal()" value="Find DBO system">
+	</form>
+	<div id="result"></div>
+	<p><b>Legal client application form</b><br>
+	<form>
+	<p><b>Is your company going to take out a loan?</b><br>
+	<input type="text" size="20" id="legalCredit">
+	<p><b>Is your company going to open a deposit?</b><br>
+	<input type="text" size="20" id="legalDeposit">
+	<p><b>Which sum do you consider an appropriate to open a deposit?</b><br>
+	<input type="text" size="20" id="legalDepositPrice">
+	<p><b>Does your company want to invest via bank?</b><br>
+	<input type="text" size="20" id="investment">
+	<p><b>Does your company want to have factoring service?</b><br>
+	<input type="text" size="20" id="factoring">
+	<p><b>Are you going to provide settlement and cash services?</b><br>
+	<input type="text" size="20" id="legalRKO">
+	<p><b>Which sum do you consider an appropriate for providing settlement and cash services?</b><br>
+	<input type="text" size="20" id="legalRKOPrice">
+	<p><b>Does your company want to provide international money transactions?</b><br>
+	<input type="text" size="20" id="internationalOp">
+	<p><b>Does your company want to use bank services via the Internet?</b><br>
+	<input type="text" size="20" id="legalInternetBanking">
+	<p><b>How much does your company ready to pay for using DBO?</b><br>
+	<input type="text" size="20" id="legalDBOPrice">
+	<p><b>Which risk do you consider an appropriate?</b><br>
+	<input type="text" size="20" id="legalRisks">
+	<input type="button" onClick="getLegal()" value="Find DBO system">
+	</form>
+	<div id="result2"></div>
+
+</body>
+</html>
